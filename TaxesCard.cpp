@@ -4,7 +4,7 @@
 #include <set>
 #include <chrono>
 #include <random>
-#include <iostream
+#include <iostrea
 
 
 //自己手牌数量
